@@ -1,0 +1,19 @@
+class  Multiplication
+
+{
+	public static void main(String[] args) 
+	{
+
+	
+
+
+boolean b2 = true;
+boolean b3 = false;
+
+boolean ans2 = b2 * b3;
+System.out.println(ans2);
+
+
+
+	}
+}
